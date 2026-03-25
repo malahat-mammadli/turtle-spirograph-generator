@@ -15,4 +15,4 @@ This project uses only Python's standard library. No external dependencies are r
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/turtle-spirograph-generator.git](https://github.com/YOUR_USERNAME/turtle-spirograph-generator.git)
+   git clone [https://github.com/malahat-mammadli/turtle-spirograph-generator.git](https://github.com/malahat-mammadli/turtle-spirograph-generator.git)
